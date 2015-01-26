@@ -19,11 +19,12 @@
         + Inside
         + Gym
 5. You may use any front-end libraries you wish to complete the task. The Internet is your oyster!
+6. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact.
 
 # Bonus Points
-- You may choose will need to make two API calls to populate any or all parts of page. The data returned may not reflect the amounts in the business_overview.png image. Assume that the data from these calls is correct.
-    - Programs (GET: https://api.myjson.com/bins/5bdb3)
-    - Pricing Options (GET: https://api.myjson.com/bins/17oy7)
+You may choose will need to make two API calls to populate any or all parts of page. The data returned may not reflect the amounts in the business_overview.png image. Assume that the data from these calls is correct.
+  - Programs (GET: https://api.myjson.com/bins/5bdb3)
+  - Pricing Options (GET: https://api.myjson.com/bins/17oy7)
 
 # Help!
 Should you stumble into any questions during your quest, feel free tor reach out to your recruiter or dev contact. There are no stupid questions!
