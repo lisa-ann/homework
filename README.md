@@ -22,7 +22,7 @@
 6. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact.
 
 # Bonus Points
-You may choose will need to make two API calls to populate any or all parts of page. The data returned may not reflect the amounts in the business_overview.png image. Assume that the data from these calls is correct.
+You may choose to make two API calls to populate any or all parts of page. The data returned may not reflect the amounts in the business_overview.png image. Assume that the data from these calls is correct.
   - Programs (GET: https://api.myjson.com/bins/5bdb3)
   - Pricing Options (GET: https://api.myjson.com/bins/17oy7)
 
