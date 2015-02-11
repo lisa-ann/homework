@@ -9,9 +9,9 @@
 4. The pencil icon should change color on hover.
 5. The "New Program" button should open a form to add a new program. This is where you get some UX/design freedom, but the form should have the following fields:
     - Program Type (single select)
-    - Count Series
-    - Time Series
-    - Membership
+        + Count Series
+        + Time Series
+        + Membership
     - Program Name (input)
     - Allow online scheduling (boolean)
     - Default capacity (input)
