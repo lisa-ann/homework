@@ -23,7 +23,7 @@
         + Inside
         + Gym
 6. You may use any front-end libraries you wish to complete the task. The Internet is your oyster!
-7. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact.
+7. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!)
 
 # Bonus Points
 You may choose to make two API calls to populate any or all parts of page. The data returned may not reflect the amounts in the business_overview.png image. Assume that the data from these calls is correct.
