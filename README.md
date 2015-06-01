@@ -30,8 +30,5 @@ You may choose to make two API calls to populate any or all parts of page. The d
   - Programs (GET: https://api.myjson.com/bins/5bdb3)
   - Pricing Options (GET: https://api.myjson.com/bins/17oy7)
 
-# Warning
-You must submit your development code. Failure to do so will result in "failing" the test.
-
 # Help!
 Should you stumble into any questions during your quest, feel free tor reach out to your recruiter or dev contact. There are no stupid questions!
