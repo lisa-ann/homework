@@ -26,7 +26,10 @@
 7. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) 
 8. If your submitted work requires tooling (grunt, rails, yeoman, etc) is should also be hosted so that it can viewed in a working state.
 
-# Bonus Points
+# Bonus Points (recommended for Senior UI Engineer applicants)
+You may choose to make the application responsive.
+
+# Bonus Points (recommended for Senior Front End Engineer applicants)
 You may choose to make two API calls to populate any or all parts of page. The data returned may not reflect the amounts in the business_overview.png image. Assume that the data from these calls is correct.
   - Programs (GET: https://api.myjson.com/bins/5bdb3)
   - Pricing Options (GET: https://api.myjson.com/bins/17oy7)
