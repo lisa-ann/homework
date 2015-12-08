@@ -33,7 +33,7 @@ You may choose to make two API calls to populate any or all parts of page. The d
   - Pricing Options (GET: https://api.myjson.com/bins/17oy7)
 
 ##### 2. Responsive (Recommended for Senior UI Engineer Applicants)
-You may choose to make the application responsive.
+You may choose to make the application responsive, however there are no designs for the responsive layout.
 
 # Help!
 Should you stumble into any questions during your quest, feel free tor reach out to your recruiter or dev contact. There are no stupid questions!
